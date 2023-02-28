@@ -1,2 +1,2 @@
-def xx():
-    
+def xx(x):
+    print(x*2)
